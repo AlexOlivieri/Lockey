@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="my_first_button">My Button</string>
+    <string name="toggle_button_pressed">Pressed</string>
+    <string name="toggle_button_unpressed">Unpressed</string>
+    <string name="switch_selected">On</string>
+    <string name="switch_unselected">Off</string>
+    <string name="check_box_selected">Selected</string>
+    <string name="check_box_unselected">Unselected</string>
+
+    <string name="facebook_app_id">974376089323220</string>
+
+</resources>
